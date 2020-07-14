@@ -1,4 +1,7 @@
 # django_pro
-a blog project
-this blog has  login/logout
-also manages posts by all users
+A blog project<br/>
+**Features**
+-Maintaining User sessions.
+-Post/save/edit User posts.
+
+
